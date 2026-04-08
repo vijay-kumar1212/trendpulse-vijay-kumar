@@ -22,10 +22,12 @@ categories = {
 'entertainment' : ["movie", "film", "music", "Netflix", "game", "book", "show", "award", "streaming"]
 }
 records = []
-
+# looping through all story ids to fetch story details.
 for id in top_stories_ids:
     try:
+        # performing get request to fetch story details
         resp_ = requests.get(url=f'https://hacker-news.firebaseio.com/v0/item/{id}.json',headers=headers,verify=False)
+    # excepting Request exceptions to avoid crashing of the loop
     except requests.exceptions.RequestException as e:
         print(f"Request failed for story {id}: {e}")
         continue
@@ -45,13 +47,14 @@ for id in top_stories_ids:
                             'num_comments': story_details.get('descendants', ''),
                             'author': story_details.get('by', ''),
                             'url': story_details.get('url', ''),
-                            'collected_at': datetime.datetime.now().isoformat()})
+                            'collected_at': datetime.datetime.now().strftime("%Y%m%d")})
     time.sleep(2)
 
 # creating a data directory if it's not created
 os.makedirs('data', exist_ok = True)
 # setting file path to store the stories data in JSON file
-file_path = f'data/task1_data.json'
+date_str = datetime.datetime.now().strftime("%Y%m%d")
+file_path = f'data/trends_{date_str}.json'
 # Opened file in write mode and updated the file with fetched story details
 with open(file_path, 'w') as f:
     json.dump(records, f, indent = 2)
