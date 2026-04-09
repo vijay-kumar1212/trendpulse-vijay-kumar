@@ -41,12 +41,12 @@ for id in top_stories_ids:
         title = story_details['title'].lower()
         if any(keyword.lower() in title for keyword in keywords):
             records.append({'post_id': id,
-                            'title': story_details.get('title', ''),
+                            'title': story_details.get('title', None),
                             'category': category,
-                            'score': story_details.get('score', ''),
-                            'num_comments': story_details.get('descendants', ''),
-                            'author': story_details.get('by', ''),
-                            'url': story_details.get('url', ''),
+                            'score': story_details.get('score', None),
+                            'num_comments': story_details.get('descendants', None),
+                            'author': story_details.get('by', None),
+                            'url': story_details.get('url', None),
                             'collected_at': datetime.datetime.now().strftime("%Y%m%d")})
     time.sleep(2)
 
