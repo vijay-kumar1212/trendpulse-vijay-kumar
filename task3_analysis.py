@@ -24,3 +24,4 @@ top = df.loc[df['num_comments'].idxmax()]
 print(f'Most commented story: {top['title']}  — {top['num_comments']} comments')
 
 df.to_csv('data/trends_analysed.csv', index=False, encoding='utf-8')
+print('Saved to data/trends_analysed.csv')
