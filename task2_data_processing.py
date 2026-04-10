@@ -1,10 +1,7 @@
 import os
-from os.path import exists
-
 import pandas as pd
-import numpy as np
 
-df = pd.read_json('data/trends_20260408.json')
+df = pd.read_json('data/trends_20260409.json')
 print(f'Loaded {df.shape[0]} stories from data/trends_20260408.json')
 
 # cleaning the data
@@ -19,8 +16,7 @@ df.drop_duplicates(subset='post_id', inplace=True)
 print(f'After removing duplicates:{df.shape[0]}')
 
 # Missing values — drop rows where post_id, title, or score is missing
-# In the JSON file empty values stored with empty strings to replace it with nan used below code
-df.replace("", np.nan, inplace=True) # TODO
+
 df = df.dropna(subset=['post_id','title', 'score'])
 print(f'After removing nulls:{df.shape[0]}')
 

@@ -1,207 +1,206 @@
 post_id,title,category,score,num_comments,author,url,collected_at
-47687273,Git commands I run before reading any code,technology,817,179,grepsedawk,https://piechowski.io/post/git-commands-before-reading-code/,20260408
-47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,103,22,chrsw,https://arxiv.org/abs/2604.05091,20260408
-47690415,Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters,technology,20,5,nuancedev,https://rival.tips/research/model-similarity,20260408
-47689237,US cities are axing Flock Safety surveillance technology,technology,205,99,giuliomagnifico,https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/,20260408
-47679121,Project Glasswing: Securing critical software for the AI era,technology,1409,728,Ryan5453,https://www.anthropic.com/glasswing,20260408
-47657204,Show HN: We built a camera only robot vacuum for less than 300$ (Well almost),entertainment,68,20,indraneelpatil,https://indraneelpatil.github.io/blog/2026/robot-vacuum/,20260408
-47656518,Your File System Is Already A Graph Database,technology,83,31,alxndr,https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/,20260408
-47654629,The Harvard Library Passport,sports,27,6,fi-le,https://fi-le.net/stamps/,20260408
-47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,577,233,zixuanlimit,https://z.ai/blog/glm-5.1,20260408
-47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",technology,7,0,russellharper,https://pvp-ai.russell-harper.com,20260408
-47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,25,2,pruz,https://github.com/pcruz1905/hls-restream-proxy,20260408
-47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,259,51,frasermarlow,https://middle-earth-interactive-map.web.app/,20260408
-47653642,Binary obfuscation used in AAA Games,sports,122,68,noztol,https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html,20260408
-47675625,Cloudflare targets 2029 for full post-quantum security,technology,372,112,ilreb,https://blog.cloudflare.com/post-quantum-roadmap/,20260408
-47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,entertainment,209,26,MediaSquirrel,https://github.com/mattmireles/gemma-tuner-multimodal,20260408
-47624572,A database of analog cameras that can be 3D printed,technology,143,21,thomasjb,https://printed.analogcamera.space/,20260408
-47627217,Running out of disk space in production,science,214,117,romes,https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html,20260408
-47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,worldnews,12,2,beardyw,https://www.theregister.com/2026/04/08/amazon_kindle_support_discontinued/,20260408
-47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,762,231,sam-bee,https://sam-burns.com/posts/concrete-laptop-stand/,20260408
-47672295,Every GPU That Mattered,technology,320,199,jonbaer,https://sheets.works/data-viz/every-gpu,20260408
-47688712,Ask HN: Should AI credits be refunded on mistakes?,technology,7,5,ed_elliott_asc,,20260408
-47680124,IPv6 is the only way forward,worldnews,85,230,quaintdev,https://ankshilp.in/posts/for-the-love-of-internet/,20260408
-47664836,AI helps add 10k more photos to OldNYC,technology,137,46,evakhoury,https://www.danvk.org/2026/03/08/oldnyc-updates.html,20260408
-47677241,Taste in the age of AI and LLMs,technology,260,201,speckx,https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/,20260408
-47676557,Moving fast in hardware: lessons from lab to $100M ARR,worldnews,109,25,rryan,https://blog.zacka.io/p/simplify-then-add-lightness-bc4,20260408
-47684506,LLM scraper bots are overloading acme.com's HTTPS server,technology,60,55,mjyut,http://acme.com/updates/archive/229.html,20260408
-47675013,Dropping Cloudflare for Bunny.net,technology,401,201,shintoist,https://jola.dev/posts/dropping-cloudflare,20260408
-47672318,Blackholing My Email,technology,175,34,semyonsh,https://www.johnsto.co.uk/blog/blackholing-my-email/,20260408
-47680023,Tailslayer: Library for reducing tail latency in RAM reads,technology,63,19,hasheddan,https://github.com/LaurieWired/tailslayer,20260408
-47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,420,196,henrygarner,https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/,20260408
-47680532,"Cells for NetBSD: kernel-enforced, jail-like isolation",technology,50,12,akagusu,https://netbsd-cells.petermann-digital.de/,20260408
-47674606,Show HN: Unicode Steganography,technology,25,4,PatrickVuscan,https://steganography.patrickvuscan.com,20260408
-47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,159,31,intofarlands,https://www.intofarlands.com/atlasofarda,20260408
-47672778,Breaking the console: a brief history of video game security,sports,93,26,sprado,https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/,20260408
-47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,119,18,ductionist,https://midi.guide/blog/three-hunded-synths-one-app/,20260408
-47682908,AI Assistance Reduces Persistence and Hurts Independent Performance,technology,17,4,dougb5,https://arxiv.org/abs/2604.04721,20260408
-47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two,technology,88,68,bundie,https://blog.railway.com/p/moving-railways-frontend-off-nextjs,20260408
-47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,entertainment,96,17,Sean-Der,https://github.com/pion/handoff,20260408
-47676044,Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps,entertainment,26,12,ashish004,https://github.com/final-run/finalrun-agent,20260408
-47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1317,729,StanAngeloff,https://github.com/anthropics/claude-code/issues/42796,20260408
-47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,461,195,MattHart88,https://github.com/matthartman/ghost-pepper,20260408
-47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",entertainment,241,198,Zm44,https://locker.dev,20260408
-47673541,AI may be making us think and write more alike,technology,226,234,giuliomagnifico,https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/,20260408
-47641528,Apollo Guidance Computer restoration videos,technology,89,11,mariuz,https://www.curiousmarc.com/space/apollo-guidance-computer,20260408
-47683613,ICE acknowledges it is using powerful spyware,worldnews,62,7,dnemmers,https://text.npr.org/nx-s1-5776799,20260408
-47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",technology,162,259,tantalor,https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign,20260408
-47682956,The BSDs in the AI Age,technology,8,0,jaypatelani,https://lists.nycbug.org/pipermail/talk/2026-April/018894.html,20260408
-47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,111,31,noone_youknow,https://github.com/roscopeco/anos,20260408
-47684326,OpenAI says its new model GPT-2 is too dangerous to release (2019),technology,351,105,surprisetalk,https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html,20260408
-47629021,Global Physics Photowalk: 2025 winners revealed,worldnews,26,1,ibobev,https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/,20260408
-47637828,Show HN: Tusk for macOS and Gnome,entertainment,117,45,factorialboy,https://shapemachine.xyz/tusk/,20260408
-47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,536,161,akyuu,https://www.wesnoth.org,20260408
-47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,122,24,kitfunso,https://github.com/kitfunso/hippo-memory,20260408
-47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,322,158,Bender,https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/,20260408
-47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,896,134,armanified,https://github.com/arman-bd/guppylm,20260408
-47685704,How the Vision Pro Rollout Inflamed Tensions at Apple,sports,14,4,f_allwein,https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/,20260408
-47682098,Ex-Meta worker investigated for downloading 30k private Facebook photos,entertainment,91,36,1659447091,https://www.bbc.com/news/articles/cvg049xz1ygo,20260408
-47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,29,11,brene,https://casco.com/blog/the-blueprint-of-a-north-korean-attack-on-open-source,20260408
-47662596,AI singer now occupies eleven spots on iTunes singles chart,technology,240,376,flinner,https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive,20260408
-47665902,Wikipedia's AI agent row likely just the beginning of the bot-ocalypse,technology,69,91,hackernj,https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse,20260408
-47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,288,35,karimf,https://github.com/fikrikarim/parlor,20260408
-47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,305,190,keepamovin,https://twitter.com/exQUIZitely/status/2040777977521398151,20260408
-47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,313,89,player_piano,https://www.govauctions.app/,20260408
-47665685,Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting,entertainment,65,12,4RH1T3CT0R,https://github.com/4RH1T3CT0R7/ttf-doom,20260408
-47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,154,20,ikessler,https://github.com/kessler/gemma-gem,20260408
-47648828,"Eight years of wanting, three months of building with AI",technology,947,300,brilee,https://lalitm.com/post/building-syntaqlite-ai/,20260408
-47674950,An AI robot in my home,technology,19,6,kukanani,https://allevato.me/2026/04/07/an-ai-robot-in-my-home,20260408
-47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,132,71,stevebmark,https://drop.com/,20260408
-47660853,Book review: There Is No Antimemetics Division,entertainment,278,225,ibobev,https://www.stephendiehl.com/posts/no_antimimetics/,20260408
-47640728,Show HN: A game where you build a GPU,technology,954,186,Jaso1024,https://jaso1024.com/mvidia/,20260408
-47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,55,0,tosh,http://som-st.github.io/,20260408
-47681602,Show HN: Mo – checks GitHub PRs against decisions approved in Slack,technology,9,2,oscarcaldera,https://motionode.com/index,20260408
-47683171,Show HN: Can an AI model fit on a single pixel?,technology,8,7,deevelton,https://github.com/dvelton/ai-pixel,20260408
-47650502,Computational Physics (2nd Edition) (2025),science,183,22,teleforce,https://websites.umich.edu/~mejn/cp2/,20260408
-47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,technology,331,166,rglullis,https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/,20260408
-47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,218,26,desideratum,https://github.com/salmanmohammadi/nanocode/discussions/1,20260408
-47686058,Inside a huge compound where 10k workers scammed people globally,worldnews,8,0,ece,https://apnews.com/article/online-scams-cambodia-thailand-o-smach-complex-f78f091462a35c4c8e79b2b4bfe71647,20260408
-47682879,We need re-learn what AI agent development tools are in 2026,technology,7,0,healsdata,https://blog.n8n.io/we-need-re-learn-what-ai-agent-development-tools-are-in-2026/,20260408
-47655392,Show HN: I made a YouTube search form with advanced filters,entertainment,319,201,nevernothing,https://playlists.at/youtube/search/,20260408
-47637377,LÖVE: 2D Game Framework for Lua,sports,414,215,cl3misch,https://github.com/love2d/love,20260408
-47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,456,289,thisislife2,https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb,20260408
-47682341,"Author's preface to the book: ""PGP Source Code and Internals"" (1995)",technology,5,0,ipnon,https://philzimmermann.com/EN/essays/BookPreface.html,20260408
-47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,technology,526,240,naves,https://twitter.com/__tinygrad__/status/2039213719155310736,20260408
-47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,403,100,vbtechguy,https://ai.georgeliu.com/p/running-google-gemma-4-locally-with,20260408
-47674662,Show HN: A social feed with no algo where communities decide what gets seen,entertainment,9,5,smnkgv,https://veridonia.com,20260408
-47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1095,827,firloop,,20260408
-47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",entertainment,100,28,mohshomis,https://github.com/mohshomis/modo,20260408
-47667504,Ask HN: How do you handle marketing as a solo technical founder?,technology,124,93,lazarkap,,20260408
-47682075,New York Times Got Played by a Telehealth Scam and Called It the Future of AI,technology,31,7,hn_acker,https://www.techdirt.com/2026/04/07/the-new-york-times-got-played-by-a-telehealth-scam-and-called-it-the-future-of-ai/,20260408
-47638498,Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11,entertainment,32,31,fsloth,https://adashape.com,20260408
-47686106,Japan relaxes privacy laws to make itself the 'easiest country to develop AI',technology,13,2,jeffbobries,https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/,20260408
-47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,971,618,zaikunzhang,https://ergosphere.blog/posts/the-machines-are-fine/,20260408
-47662429,Show HN: Weird Clocks,entertainment,50,16,vunderba,https://clocks.specr.net,20260408
-47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,65,salt4034,https://github.com/kdave/btrfs-progs/issues/1107,20260408
-47675709,Show HN: The King James Bible deserved a better website,entertainment,9,3,L23234,https://officialkingjamesbible.com/,20260408
-47652322,Music for Programming,entertainment,349,173,merusame,https://musicforprogramming.net,20260408
-47676521,Claude Code login fails with OAuth timeout on Windows,technology,220,301,sh1mmer,https://github.com/anthropics/claude-code/issues/44257,20260408
-47677556,Show HN: A (marginally) useful x86-64 ELF executable in 298 bytes,entertainment,13,0,meribold,https://github.com/meribold/btry,20260408
-47672792,"MemPalace, the highest-scoring AI memory system ever benchmarked",technology,55,7,rochoa,https://github.com/milla-jovovich/mempalace,20260408
-47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,175,32,laszlokorte,https://static.laszlokorte.de/escher/,20260408
-47637757,Embarrassingly simple self-distillation improves code generation,technology,652,200,Anon84,https://arxiv.org/abs/2604.01193,20260408
-47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,83,9,lexalizer,https://osintradar.com/,20260408
-47672642,Iran threatens OpenAI's Stargate data center in Abu Dhabi,technology,65,1,marksully,https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat,20260408
-47681453,"Sports bets on prediction markets ruled to be ""swaps,"" exempt from state laws",sports,19,6,nradov,https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/,20260408
-47679573,Apple Is Reportedly Facing a 'Massive Dilemma' with the MacBook Neo,entertainment,27,22,thm,https://www.macrumors.com/2026/04/07/macbook-neo-massive-dilemma/,20260408
-47674056,Show HN: Bx – macOS native sandbox for AI and coding tools,technology,6,0,holtwick,https://github.com/holtwick/bx-mac,20260408
-47652549,Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter,technology,76,41,alvivanco,https://newclawtimes.com/articles/iran-irgc-satellite-imagery-openai-stargate-abu-dhabi-datacenter-threat/,20260408
-47645025,Show HN: Contrapunk – Real-time counterpoint harmony from guitar input,entertainment,118,54,waveywaves,https://contrapunk.com/,20260408
-47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,technology,427,268,eichin,https://mtlynch.io/claude-code-found-linux-vulnerability/,20260408
-47679021,Ask HN: What are you working on? (April 2026) (Non AI),technology,13,27,cousin_it,,20260408
-47621792,Post Mortem: axios NPM supply chain compromise,technology,290,142,JeanMeche,https://github.com/axios/axios/issues/10636,20260408
-47682435,Fifth Element Star Milla Jovovich Reveals AI Memory Tool MemPalace,technology,8,3,iamben,https://decrypt.co/363524/fifth-element-milla-jovovich-ai-tool-mempalace,20260408
-47650312,A tail-call interpreter in (nightly) Rust,technology,190,52,g0xA52A2A,https://www.mattkeeter.com/blog/2026-04-05-tailcall/,20260408
-47625952,Show HN: I built a frontpage for personal blogs,entertainment,780,194,ramkarthikk,https://text.blogosphere.app/,20260408
-47651479,From birds to brains: My path to the fusiform face area (2024),technology,41,0,everbody,https://www.kavliprize.org/nancy-kanwisher-autobiography,20260408
-47624645,Show HN: Apfel – The free AI already on your Mac,technology,734,156,franze,https://apfel.franzai.com,20260408
-47679503,Linux kernel maintainers are following through on removing Intel 486 support,technology,17,0,cpeterso,https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/,20260408
-47680611,"Iranian hackers launching disruptive attacks at U.S. energy, water targets [pdf]",worldnews,31,6,lschueller,https://www.cisa.gov/sites/default/files/2026-04/AA26-097A-Iranian-Affiliated-Cyber-Actors-Exploit-Programmable-Logic-Controllers-Across-US-Critical-Infrastructure_508c.pdf,20260408
-47667798,"Bernie Sanders: ""AI Is a Threat to Everything the American People Hold Dear""",technology,76,65,fortran77,https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459,20260408
-47678747,This Spillway Failed on Purpose [video],technology,13,1,Wilsoniumite,https://www.youtube.com/watch?v=UF63eFJmbrQ,20260408
-47645432,Introduction to Computer Music (2009) [pdf],technology,232,84,luu,https://composerprogrammer.com/introductiontocomputermusic.pdf,20260408
-47658617,Show HN: I just built a MCP Server that connects Claude to all your wearables,entertainment,17,12,anton_salcher,https://pacetraining.co/,20260408
-47637206,Show HN: Docking – Extensible Linux dock in Python,entertainment,26,18,edumucelli,https://docking.cc,20260408
-47656659,Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice,technology,198,58,MoltenMonster,https://github.com/mikf/gallery-dl/discussions/9304,20260408
-47640875,"LLM Wiki – example of an ""idea file""",technology,294,92,tamnd,https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f,20260408
-47648404,My Google Workspace account suspension,science,369,218,zenincognito,https://zencapital.substack.com/p/sad-story-of-my-google-workspace,20260408
-47673576,Why a new computer is slower than an old computer [video],technology,17,6,tiernano,https://www.youtube.com/watch?v=t992ul_IKtc,20260408
-47679873,College instructor turns to typewriters to curb AI-written work,technology,12,0,ohjeez,https://apnews.com/article/typewriter-ai-cheating-chatgpt-cornell-ce10e1ca0f10c96f79b7d988bb56448b,20260408
-47678393,Testing suggests Google's AI Overviews tell millions lies per hour,technology,13,6,SockThief,https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/,20260408
-47675835,Wireless Festival cancelled after government stops Kanye West entering UK,worldnews,13,1,manarth,https://www.bbc.co.uk/news/live/c77e60v0my1t,20260408
-47656335,Does coding with LLMs mean more microservices?,technology,63,61,jer0me,https://ben.page/microservices,20260408
-47629485,A case study in testing with 100+ Claude agents in parallel,science,66,54,thejash,https://imbue.com/product/mngr_part_2/,20260408
-47668658,"The back story behind the first ""$1.8B"" dollar ""AI Company""",technology,68,9,chermanowicz,https://garymarcus.substack.com/p/the-back-story-behind-the-first-18,20260408
-47622616,The Technocracy Movement of the 1930s,technology,171,138,lazydogbrownfox,https://donotresearch.substack.com/p/welcome-to-the-technocracy,20260408
-47633131,"Run Linux containers on Android, no root required",technology,221,85,politelemon,https://github.com/ExTV/Podroid,20260408
-47681534,Scientists invented a fake disease. AI told people it was real,technology,12,2,EA-3167,https://www.nature.com/articles/d41586-026-01100-y,20260408
-47681533,What the heck is wrong with our AI overlords?,technology,8,0,kyrofa,https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/,20260408
-47655058,OpenAI's fall from grace as investors race to Anthropic,technology,214,151,1vuio0pswjnm7,https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic,20260408
-47639727,"When legal sports betting surges, so do Americans' financial problems",sports,221,146,pseudolus,https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy,20260408
-47639303,"Show HN: I made open source, zero power PCB hackathon badges",entertainment,158,18,kaipereira,https://github.com/KaiPereira/Overglade-Badges,20260408
-47645468,Writing Lisp is AI resistant and I'm sad,technology,98,99,djha-skin,https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/,20260408
-47667008,Show HN: I built a site that turns your Steam gaming hours into a RL skill tree,sports,8,7,naorz,https://alternatelife.xyz/,20260408
-47649811,"Japanese, French and Omani vessels cross Strait of Hormuz",technology,165,242,vrganj,https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz,20260408
-47680862,Iran attempting cyberattacks against U.S. critical infrastructure,technology,7,0,elsewhen,https://www.latimes.com/politics/story/2026-04-07/iran-attempting-cyber-attacks-against-u-s-critical-infrastructure-officials-say,20260408
-47649117,Someone at BrowserStack is leaking users' email addresses,technology,387,103,m_km,https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/,20260408
-47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",technology,185,103,jrandolf,https://sllm.cloud,20260408
-47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,entertainment,554,181,detaro,https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice,20260408
-47665630,Show HN: Meta-agent: self-improving agent harnesses from live traces,entertainment,11,0,essamsleiman,https://github.com/canvas-org/meta-agent,20260408
-47673444,"No ""New Deal"" for OpenAI",technology,18,1,jger15,https://minutes.substack.com/p/no-new-deal-for-openai,20260408
-47659363,"Show HN: I replaced Google Analytics with my own tool – no cookies, <1KB script",entertainment,15,11,VictorChanet,https://datakool.com/,20260408
-47655480,Make Humans Analog Again,technology,11,0,muunbo,https://bhave.sh/make-humans-analog-again/,20260408
-47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,entertainment,165,7,teamchong,https://github.com/teamchong/turboquant-wasm,20260408
-47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,62,angst,https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans,20260408
-47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,technology,188,164,lschueller,https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones,20260408
-47662313,Show HN: ReverseCam – See yourself as others see you,entertainment,10,1,ilamparithi,https://www.reversecam.com,20260408
-47676363,"Claude is having another moment, again",technology,22,2,ksajadi,https://downdetector.co.uk/status/claude-ai/,20260408
-47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,4,andsoitis,https://www.bbc.com/news/articles/cj60r2kdnw1o,20260408
-47632503,"Iran strikes leave Amazon availability zones ""hard down"" in Bahrain and Dubai",technology,248,123,upofadown,https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability,20260408
-47620933,Memo: A language that remembers only the last 12 lines of code,technology,59,36,notem,https://danieltemkin.com/Esolangs/Memo/,20260408
-47681094,"Al-Khwarizmi (""Algorithm"")",worldnews,8,1,profsummergig,https://en.wikipedia.org/wiki/Al-Khwarizmi,20260408
-47633640,How to Write Unmaintainable Code (1999),technology,55,17,downbad_,https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html,20260408
-47621438,Show HN: Made a little Artemis II tracker,entertainment,153,61,codingmoh,https://artemis-ii-tracker.com/,20260408
-47627419,The Axios supply chain attack used individually targeted social engineering,technology,47,12,cmitsakis,https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/,20260408
-47626598,Show HN: ctx – an Agentic Development Environment (ADE),entertainment,52,53,luca-ctx,https://ctx.rs,20260408
-47655155,'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains,technology,55,16,mikhael,https://gizmodo.com/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-2000742595,20260408
-47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,entertainment,193,75,MaximilianEmel,https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million,20260408
-47641615,Sopwith – 1984 Game (2000),sports,99,42,elvis70,http://www.sopwith.org/,20260408
-47625311,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,technology,45,24,tosh,https://github.com/oven-sh/bun/pull/28801,20260408
-47653471,"Musician says AI company is cloning her music, filing claims against her",technology,123,19,lando2319,https://twitter.com/unlimited_ls/status/2040577536136974444,20260408
-47638147,"Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",technology,20,17,bring-shrubbery,https://www.pluck.so/,20260408
-47625244,Critics say EU risks ceding control of its tech laws under U.S. pressure,technology,242,140,nickslaughter02,https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/,20260408
-47685951,How Trump Took the U.S. to War with Iran,worldnews,7,1,u1hcw9nx,https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html,20260408
-47669649,Global Fuel Shortage Pushes Governments Toward Demand Controls,worldnews,15,14,toomuchtodo,https://oilprice.com/Energy/Crude-Oil/Global-Fuel-Shortage-Pushes-Governments-Toward-Demand-Controls.html,20260408
-47654219,TreeSheets: Free Form Data Organizer (Hierarchical Spreadsheet),technology,17,1,n3t,https://strlen.com/treesheets/,20260408
-47645817,How Pope Leo is pushing back on divine justification of war,worldnews,77,42,1659447091,https://www.cnn.com/2026/04/04/middleeast/pope-leo-iran-war-analysis-latam-intl,20260408
-47661762,The Hormuz Blockade: The energy and supply chain crisis that's upon us,technology,5,2,martinvol,https://martinvol.pe/blog/2026/04/06/the-energy-and-supply-chain-crisis-thats-upon-us/,20260408
-47678445,Your boss wants to use surveillance data to cut your wages,technology,11,2,hn_acker,https://pluralistic.net/2026/04/06/empiricism-washing/,20260408
-47652290,Samsung Raises DRAM Prices Another ~30% for Q2 2026,technology,54,11,jeffufl,https://old.reddit.com/user/BuySellRam/comments/1sd9z9k/samsung_raises_dram_prices_another_30_for_q2_2026/,20260408
-47672082,The Workers Opting to Retire Instead of Taking on AI,technology,6,7,fortran77,https://www.wsj.com/lifestyle/the-workers-opting-to-retire-instead-of-taking-on-ai-3400fb92,20260408
-47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,entertainment,38,23,sagirodin,https://ismcpdead.com,20260408
-47683648,Russia and China veto UN resolution aimed at reopening the Strait of Hormuz,technology,9,0,WaitWaitWha,https://apnews.com/article/un-iran-us-strait-hormuz-bahrain-resolution-640e644b57df5c762ed9c57ef87b0427,20260408
-47650726,"Codex pricing to align with API token usage, instead of per-message",technology,208,193,ccmcarey,https://help.openai.com/en/articles/20001106-codex-rate-card,20260408
-47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,entertainment,24,15,slp3r,https://github.com/sleep3r/mtproto.zig,20260408
-47645235,Brain scans reveal how to enters a psychedelic-like trance without drugs,technology,79,25,ingenika,https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/,20260408
-47653036,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,42,12,anigbrowl,https://www.reuters.com/business/media-telecom/satellite-firm-planet-labs-indefinitely-withhold-iran-war-images-2026-04-05/,20260408
-47673182,Health benefits of Paris climate goals could save lives by 2040,worldnews,7,0,lentoutcry,https://www.carbonbrief.org/guest-post-health-benefits-of-paris-climate-goals-could-save-millions-of-lives-by-2040/,20260408
-47658388,NIMBY Rails,technology,41,5,altilunium,https://store.steampowered.com/app/1134710/NIMBY_Rails/,20260408
-47650962,The Melanesian: Dark-skinned people with blonde hair region of Oceania (2022),technology,45,1,thunderbong,https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/,20260408
-47648529,Right to repair: Why the US military can't fix much of its own equipment,technology,35,9,scythe,https://taskandpurpose.com/tech-tactics/us-military-right-to-repair/,20260408
-47638532,"Show HN: Ownscribe – local meeting transcription, summarization and search",entertainment,18,0,paberr,https://github.com/paberr/ownscribe,20260408
-47668813,Claude Code limits are starting to feel like a psychological trick,technology,5,12,trinsic2,,20260408
-47657198,Scientists found a protein that drives brain aging – and how to stop it,technology,24,6,mikhael,https://www.sciencedaily.com/releases/2026/04/260405065236.htm,20260408
-47657511,"Show HN: Aiaiai.guide: Plain-English mental model for LLM apps, tools and agents",technology,7,0,myyke,https://aiaiai.guide/,20260408
-47620039,"Reporting potholes with an ESP32, LoRA, and AI",technology,33,0,flakespancakes,https://thingswemake.com/pothole-in-one/,20260408
-47640770,Show HN: DocMason – Agent Knowledge Base for local complex office files,entertainment,11,0,Jet_Xu,https://github.com/jetxu-llm/docmason,20260408
-47642275,"Netflix must refund customers for years of price hikes, Italian court rules",entertainment,64,6,xbmcuser,https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/,20260408
-47643580,Show HN: Uncompressed – Self-hosted Netflix alternative at 60 Mbps instead of 15,entertainment,11,0,lackoftactics,https://uncompressed.media,20260408
-47664308,JPMorgan warns Tesla stock could sink 60% in new note,worldnews,61,20,freediddy,https://finance.yahoo.com/video/jpmorgan-warns-tesla-stock-could-sink-60-in-new-note-heres-why-142000095.html,20260408
-47656608,Show HN: Multi-agent coding assistant with a sandboxed Rust execution engine,entertainment,10,2,chrismeurer,https://github.com/christianmeurer/Lula,20260408
-47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,technology,132,10,01-_-,https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/,20260408
-47623101,A Rave Review of Superpowers (For Claude Code),technology,49,25,emschwartz,https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/,20260408
-47656181,Show HN: LLM Wiki – Open-Source Implementation of Karpathy's LLM Wiki,technology,6,1,lucasastorian,https://llmwiki.app,20260408
-47656093,Show HN: jsoncompat – a library to detect/fuzz breaking changes in JSON schemas,entertainment,7,1,rogaos,https://jsoncompat.com/,20260408
-47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",technology,99,43,Bender,https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/,20260408
-47655078,Show HN: Mdarena – Benchmark your Claude.md against your own PRs,technology,22,4,hudsongr,https://github.com/HudsonGri/mdarena,20260408
-47635340,Let's be Honest about AI Coding,technology,24,3,lordofmoria,https://kenkantzer.com/lets-be-honest-about-ai/,20260408
+47704881,Vercel Claude Code plugin wants to read your prompt,technology,156,36,akshay2603,https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry,20260409
+47702541,A WebGPU Implementation of Augmented Vertex Block Descent,technology,74,5,juretriglav,https://github.com/jure/webphysics,20260409
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,133,128,kisamoto,https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/,20260409
+47684811,One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot,technology,20,25,meryll_dindin,https://merylldindin.com/thoughts/company-brain/,20260409
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",technology,89,69,SirHound,https://cssstudio.ai,20260409
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,25,16,behat,https://www.relvy.ai,20260409
+47701233,Claude mixes up who said what,technology,322,283,sixhobbits,https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html,20260409
+47702791,Show HN: 41 years sea surface temperature anomalies,entertainment,127,42,willmeyers,https://ssta.willhelps.org,20260409
+47663743,"Show HN: Moon simulator game, ray-casting",sports,77,15,JKCalhoun,https://mooncraft2000.com,20260409
+47660434,C# in Unity 2026: Writing more modern code,technology,65,70,hacker_13,https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use,20260409
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,379,43,WerWolv,https://werwolv.net/posts/usb_for_sw_devs/,20260409
+47687273,Git commands I run before reading any code,technology,2163,461,grepsedawk,https://piechowski.io/post/git-commands-before-reading-code/,20260409
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,379,359,chabons,https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1,20260409
+47703573,FBI Extracted Deleted Signal Messages Saved in iPhone Notification Database,technology,25,9,bjord,https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/,20260409
+47704443,Study found that young adults have grown less hopeful and more angry about AI,technology,79,101,elsewhen,https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html,20260409
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,entertainment,118,54,DamnInteresting,https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/,20260409
+47696035,John Deere to pay $99M in right-to-repair settlement,technology,355,117,CharlesW,https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement,20260409
+47689237,US cities are axing Flock Safety surveillance technology,technology,730,411,giuliomagnifico,https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/,20260409
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,entertainment,59,17,meribold,https://github.com/meribold/btry,20260409
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,technology,399,187,nickvec,https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/,20260409
+47705383,CDC delays publishing report showing Covid vaccine benefits,entertainment,13,2,ceejayoz,https://www.washingtonpost.com/health/2026/04/09/covid-vaccine-report-delayed/,20260409
+47696562,Show HN: Is Hormuz open yet?,entertainment,434,186,anonfunction,https://www.ishormuzopenyet.com/,20260409
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1506,812,Ryan5453,https://www.anthropic.com/glasswing,20260409
+47704137,OpenAI pulls out of landmark £31B UK investment package,technology,11,5,mellosouls,https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment,20260409
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,128,144,latchkey,http://oj-hn.com/,20260409
+47674606,Show HN: Unicode Steganography,technology,54,13,PatrickVuscan,https://steganography.patrickvuscan.com,20260409
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,59,11,rvitorper,https://github.com/rvitorper/go-bt,20260409
+47698067,You Can Just Print an Air Purifier,technology,31,4,zdw,https://aftermath.site/3d-printing-air-purifier-corsi-rosenthal/,20260409
+47703498,White-Collar Workers Are Rebelling Against AI – 80% Refuse Adoption Mandates,technology,17,5,sarimkx,https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/,20260409
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,technology,211,206,bundie,https://blog.railway.com/p/moving-railways-frontend-off-nextjs,20260409
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,106,31,pruz,https://github.com/pcruz1905/hls-restream-proxy,20260409
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,technology,48,37,dreamsome,https://github.com/onesuper/tui-use,20260409
+47689319,Show HN: Skrun – Deploy any agent skill as an API,technology,57,10,frizull,https://github.com/skrun-dev/skrun,20260409
+47624572,A database of analog cameras that can be 3D printed,technology,165,26,thomasjb,https://printed.analogcamera.space/,20260409
+47657204,Show HN: We built a camera only robot vacuum for less than 300$ (Well almost),entertainment,105,56,indraneelpatil,https://indraneelpatil.github.io/blog/2026/robot-vacuum/,20260409
+47661038,Show HN: I built a navigation app that displays weather along the route,entertainment,53,24,vkatluri,https://navimodo.com/,20260409
+47699086,App Store sees 84% surge in new apps as AI coding tools take off,technology,61,66,gardaani,https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/,20260409
+47700084,"Code Is Cheap Now, and That Changes Everything",technology,55,54,v-mdev,https://perevillega.com/posts/2026-03-16-code-is-cheap-now/,20260409
+47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,612,259,zixuanlimit,https://z.ai/blog/glm-5.1,20260409
+47672295,Every GPU That Mattered,technology,328,205,jonbaer,https://sheets.works/data-viz/every-gpu,20260409
+47701971,AI and remote work is a disaster for junior software engineers,technology,16,6,gpi,https://medium.com/@lukas_kosinski/ai-and-remote-work-is-a-disaster-for-junior-software-engineers-a377b1d8ed20,20260409
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,776,234,sam-bee,https://sam-burns.com/posts/concrete-laptop-stand/,20260409
+47622717,Study investigates how mass distribution of baseball bat affects performance,science,24,17,Magi604,https://news.wsu.edu/press-release/2026/04/02/science-confirms-torpedo-bat-works-as-well-as-regular-bat/,20260409
+47705214,Gen Z's fading AI hype,technology,7,0,Brajeshwar,https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup,20260409
+47699963,AI Cybersecurity After Mythos: The Jagged Frontier,technology,11,5,evelinag,https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier,20260409
+47680124,IPv6 is the only way forward,worldnews,101,304,quaintdev,https://ankshilp.in/posts/for-the-love-of-internet/,20260409
+47664836,AI helps add 10k more photos to OldNYC,technology,142,50,evakhoury,https://www.danvk.org/2026/03/08/oldnyc-updates.html,20260409
+47675625,Cloudflare targets 2029 for full post-quantum security,technology,381,112,ilreb,https://blog.cloudflare.com/post-quantum-roadmap/,20260409
+47699090,'There's a lot of desperation': older workers turn to AI training to stay afloat,technology,34,9,Stratoscope,https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs,20260409
+47699814,Process Manager for Autonomous AI Agents,technology,56,19,ankitg12,https://botctl.dev/,20260409
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,284,68,frasermarlow,https://middle-earth-interactive-map.web.app/,20260409
+47696558,Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs,technology,15,4,guitarlimeo,https://arxiv.org/abs/2603.20957,20260409
+47704285,Clean code in the age of coding agents,technology,44,63,yanis_t,https://www.yanist.com/clean-code-in-the-age-of-coding-agents/,20260409
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,worldnews,113,26,rryan,https://blog.zacka.io/p/simplify-then-add-lightness-bc4,20260409
+47672318,Blackholing My Email,technology,178,35,semyonsh,https://www.johnsto.co.uk/blog/blackholing-my-email/,20260409
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,55,18,zdw,https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/,20260409
+47627217,Running out of disk space in production,science,219,128,romes,https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html,20260409
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,entertainment,227,27,MediaSquirrel,https://github.com/mattmireles/gemma-tuner-multimodal,20260409
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,428,200,henrygarner,https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/,20260409
+47675013,Dropping Cloudflare for Bunny.net,technology,411,207,shintoist,https://jola.dev/posts/dropping-cloudflare,20260409
+47695647,The AI Great Leap Forward,technology,119,56,jodah,https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/,20260409
+47699105,Show HN: Image to Music AI – Turn Any Photo into an Original Soundtrack,technology,5,3,airobus,https://imagetomusicai.com/,20260409
+47694093,"One item purchased, ten emails",technology,126,96,speckx,https://joshghent.com/online-shopping/,20260409
+47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,121,19,ductionist,https://midi.guide/blog/three-hunded-synths-one-app/,20260409
+47696210,AMD AI director says Claude Code is becoming dumber and lazier since update,technology,49,14,Logans_Run,https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/,20260409
+47672778,Breaking the console: a brief history of video game security,sports,95,26,sprado,https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/,20260409
+47654629,The Harvard Library Passport,sports,40,15,fi-le,https://fi-le.net/stamps/,20260409
+47697679,I built a tool to let you export your X bookmarks and categorize them,entertainment,16,8,xarchive,https://x-archive.netlify.app/,20260409
+47691174,Show HN: Explore the Silk Roads through an interactive map,entertainment,47,6,intofarlands,https://www.intofarlands.com/silk-roads-map,20260409
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,162,31,intofarlands,https://www.intofarlands.com/atlasofarda,20260409
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",technology,15,0,russellharper,https://pvp-ai.russell-harper.com,20260409
+47687755,Struggle Against the Gods,technology,54,6,marcofloriano,https://firstthings.com/struggle-against-the-gods/,20260409
+47677241,Taste in the age of AI and LLMs,technology,263,207,speckx,https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/,20260409
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",technology,166,261,tantalor,https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign,20260409
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1333,744,StanAngeloff,https://github.com/anthropics/claude-code/issues/42796,20260409
+47693407,Show HN: 500k+ events/sec transformations for ClickHouse ingestion,entertainment,12,3,super_ar,https://github.com/glassflow/clickhouse-etl,20260409
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,464,199,MattHart88,https://github.com/matthartman/ghost-pepper,20260409
+47680532,"Cells for NetBSD: kernel-enforced, jail-like isolation",technology,54,12,akagusu,https://netbsd-cells.petermann-digital.de/,20260409
+47696723,Resurrecting a 1992 MUD with Agentic AI,technology,7,0,salt4034,https://meditations.metavert.io/p/resurrecting-a-1992-mud-with-agentic,20260409
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,115,32,noone_youknow,https://github.com/roscopeco/anos,20260409
+47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,901,134,armanified,https://github.com/arman-bd/guppylm,20260409
+47680023,Tailslayer: Library for reducing tail latency in RAM reads,technology,73,20,hasheddan,https://github.com/LaurieWired/tailslayer,20260409
+47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,entertainment,100,17,Sean-Der,https://github.com/pion/handoff,20260409
+47691313,"Databricks co-founder wins prestigious ACM award, says 'AGI is here already'",technology,7,4,salkahfi,https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/,20260409
+47641528,Apollo Guidance Computer restoration videos,technology,89,11,mariuz,https://www.curiousmarc.com/space/apollo-guidance-computer,20260409
+47704700,"'Snoopy', 'Adolf' and 'Password': The Hungarian Government Passwords Exposed",worldnews,9,3,lschueller,https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/,20260409
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,323,160,Bender,https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/,20260409
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,537,163,akyuu,https://www.wesnoth.org,20260409
+47637828,Show HN: Tusk for macOS and Gnome,entertainment,120,49,factorialboy,https://shapemachine.xyz/tusk/,20260409
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,128,27,kitfunso,https://github.com/kitfunso/hippo-memory,20260409
+47648828,"Eight years of wanting, three months of building with AI",technology,951,300,brilee,https://lalitm.com/post/building-syntaqlite-ai/,20260409
+47640728,Show HN: A game where you build a GPU,technology,956,187,Jaso1024,https://jaso1024.com/mvidia/,20260409
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,290,36,karimf,https://github.com/fikrikarim/parlor,20260409
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,155,22,ikessler,https://github.com/kessler/gemma-gem,20260409
+47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",entertainment,247,204,Zm44,https://locker.dev,20260409
+47673541,AI may be making us think and write more alike,technology,231,243,giuliomagnifico,https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/,20260409
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,307,192,keepamovin,https://twitter.com/exQUIZitely/status/2040777977521398151,20260409
+47684506,LLM scraper bots are overloading acme.com's HTTPS server,technology,68,62,mjyut,http://acme.com/updates/archive/229.html,20260409
+47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,132,71,stevebmark,https://drop.com/,20260409
+47676044,Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps,entertainment,28,12,ashish004,https://github.com/final-run/finalrun-agent,20260409
+47662596,AI singer now occupies eleven spots on iTunes singles chart,technology,243,375,flinner,https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive,20260409
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,317,90,player_piano,https://www.govauctions.app/,20260409
+47696336,Show HN: I built a local data lake for AI powered data engineering and analytics,technology,10,4,vpfaiz,https://stream-sock-3f5.notion.site/Nile-Local-an-AI-Data-IDE-that-runs-on-your-local-machine-33b126c4d01a8052a96cc879c2dea08e?source=copy_link,20260409
+47665902,Wikipedia's AI agent row likely just the beginning of the bot-ocalypse,technology,70,90,hackernj,https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse,20260409
+47629021,Global Physics Photowalk: 2025 winners revealed,worldnews,27,1,ibobev,https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/,20260409
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,219,26,desideratum,https://github.com/salmanmohammadi/nanocode/discussions/1,20260409
+47650502,Computational Physics (2nd Edition) (2025),science,184,22,teleforce,https://websites.umich.edu/~mejn/cp2/,20260409
+47660853,Book review: There Is No Antimemetics Division,entertainment,279,226,ibobev,https://www.stephendiehl.com/posts/no_antimimetics/,20260409
+47665685,Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting,entertainment,66,12,4RH1T3CT0R,https://github.com/4RH1T3CT0R7/ttf-doom,20260409
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1098,828,firloop,,20260409
+47698851,No Taco: This Is Complete US Strategic Failure,technology,47,19,JumpCrisscross,https://phillipspobrien.substack.com/p/midweek-update-5-this-is-no-taco,20260409
+47655392,Show HN: I made a YouTube search form with advanced filters,entertainment,320,200,nevernothing,https://playlists.at/youtube/search/,20260409
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,technology,526,240,naves,https://twitter.com/__tinygrad__/status/2039213719155310736,20260409
+47688582,Show HN: Voxcode: local speech to text and ripgrep = transcript and code context,technology,9,2,jensneuse,https://github.com/jensneuse/voxcode,20260409
+47637377,LÖVE: 2D Game Framework for Lua,sports,414,217,cl3misch,https://github.com/love2d/love,20260409
+47690950,Show HN: BAREmail – minimalist Gmail client for bad WiFi,technology,43,41,Virgo_matt,https://github.com/matt-virgo/baremail,20260409
+47682908,AI Assistance Reduces Persistence and Hurts Independent Performance,technology,18,4,dougb5,https://arxiv.org/abs/2604.04721,20260409
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,56,0,tosh,http://som-st.github.io/,20260409
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,457,293,thisislife2,https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb,20260409
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,403,101,vbtechguy,https://ai.georgeliu.com/p/running-google-gemma-4-locally-with,20260409
+47695616,YouTube starts showing 90-second unskippable ads to TV viewers,entertainment,29,19,Brajeshwar,https://9to5google.com/2026/04/08/youtube-starts-showing-90-second-unskippable-ads-to-tv-viewers/,20260409
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,977,621,zaikunzhang,https://ergosphere.blog/posts/the-machines-are-fine/,20260409
+47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,technology,334,166,rglullis,https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/,20260409
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",entertainment,100,28,mohshomis,https://github.com/mohshomis/modo,20260409
+47682956,The BSDs in the AI Age,technology,9,0,jaypatelani,https://lists.nycbug.org/pipermail/talk/2026-April/018894.html,20260409
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,175,32,laszlokorte,https://static.laszlokorte.de/escher/,20260409
+47637757,Embarrassingly simple self-distillation improves code generation,technology,654,200,Anon84,https://arxiv.org/abs/2604.01193,20260409
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,https://github.com/kdave/btrfs-progs/issues/1107,20260409
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,31,11,brene,https://casco.com/blog/the-blueprint-of-a-north-korean-attack-on-open-source,20260409
+47683613,ICE acknowledges it is using powerful spyware,worldnews,68,8,dnemmers,https://text.npr.org/nx-s1-5776799,20260409
+47652322,Music for Programming,entertainment,350,173,merusame,https://musicforprogramming.net,20260409
+47690962,Cogito: Beautiful AI Markdown Editor for Mac,technology,7,0,0xferruccio,https://cogito.md,20260409
+47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,83,9,lexalizer,https://osintradar.com/,20260409
+47694303,The demise of software engineering jobs has been greatly exaggerated,technology,19,5,ryan_j_naughton,https://www.cnn.com/2026/04/08/tech/ai-software-developer-jobs,20260409
+47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,worldnews,37,23,beardyw,https://www.theregister.com/2026/04/08/amazon_kindle_support_discontinued/,20260409
+47690415,Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters,technology,76,23,nuancedev,https://rival.tips/research/model-similarity,20260409
+47662429,Show HN: Weird Clocks,entertainment,52,20,vunderba,https://clocks.specr.net,20260409
+47672792,"MemPalace, the highest-scoring AI memory system ever benchmarked",technology,61,13,rochoa,https://github.com/milla-jovovich/mempalace,20260409
+47674950,An AI robot in my home,technology,19,6,kukanani,https://allevato.me/2026/04/07/an-ai-robot-in-my-home,20260409
+47667504,Ask HN: How do you handle marketing as a solo technical founder?,technology,130,98,lazarkap,,20260409
+47688712,Ask HN: Should AI credits be refunded on mistakes?,technology,14,13,ed_elliott_asc,,20260409
+47689135,The Empty Middle of AI Coding,technology,6,2,comma_at,https://xificurc.github.io/blog/the-empty-middle-of-ai-coding/,20260409
+47621792,Post Mortem: axios NPM supply chain compromise,technology,290,142,JeanMeche,https://github.com/axios/axios/issues/10636,20260409
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,technology,429,268,eichin,https://mtlynch.io/claude-code-found-linux-vulnerability/,20260409
+47645025,Show HN: Contrapunk – Real-time counterpoint harmony from guitar input,entertainment,118,54,waveywaves,https://contrapunk.com/,20260409
+47682098,Ex-Meta worker investigated for downloading 30k private Facebook photos,entertainment,95,40,1659447091,https://www.bbc.com/news/articles/cvg049xz1ygo,20260409
+47625952,Show HN: I built a frontpage for personal blogs,entertainment,781,195,ramkarthikk,https://text.blogosphere.app/,20260409
+47684326,OpenAI says its new model GPT-2 is too dangerous to release (2019),technology,387,115,surprisetalk,https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html,20260409
+47624645,Show HN: Apfel – The free AI already on your Mac,technology,738,157,franze,https://apfel.franzai.com,20260409
+47652549,Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter,technology,76,41,alvivanco,https://newclawtimes.com/articles/iran-irgc-satellite-imagery-openai-stargate-abu-dhabi-datacenter-threat/,20260409
+47674662,Show HN: A social feed with no algo where communities decide what gets seen,entertainment,10,5,smnkgv,https://veridonia.com,20260409
+47702225,Britain breaks solar energy record twice as UKs biggest solar farm gets approval,technology,5,1,_____k,https://www.theguardian.com/environment/2026/apr/08/britain-breaks-solar-energy-record-twice-uk-biggest-solar-farm-springwell-approval,20260409
+47638498,Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11,entertainment,32,31,fsloth,https://adashape.com,20260409
+47675709,Show HN: The King James Bible deserved a better website,entertainment,11,5,L23234,https://officialkingjamesbible.com/,20260409
+47650312,A tail-call interpreter in (nightly) Rust,technology,190,52,g0xA52A2A,https://www.mattkeeter.com/blog/2026-04-05-tailcall/,20260409
+47697525,The Hormuz chokehold affects AI funding too,technology,6,0,preetnation,https://highabsolutevalue.substack.com/p/the-hormuz-chokehold-affects-ai-funding,20260409
+47701013,Largest Dutch pension fund cuts ties with controversial tech firm Palantir,technology,10,0,doener,https://nltimes.nl/2026/04/02/largest-dutch-pension-fund-cuts-ties-controversial-tech-firm-palantir,20260409
+47695761,An active phishing campaign is targeting Rust crate owners,technology,5,0,etaweb,https://social.rust-lang.org/@rust/116370165967851720,20260409
+47651479,From birds to brains: My path to the fusiform face area (2024),technology,41,0,everbody,https://www.kavliprize.org/nancy-kanwisher-autobiography,20260409
+47645432,Introduction to Computer Music (2009) [pdf],technology,232,85,luu,https://composerprogrammer.com/introductiontocomputermusic.pdf,20260409
+47681602,Show HN: Mo – checks GitHub PRs against decisions approved in Slack,technology,10,3,oscarcaldera,https://motionode.com/index,20260409
+47692291,"Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",worldnews,12,0,hn_acker,https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-how-arab-spring-fueled-global-surveillance-boom,20260409
+47640875,"LLM Wiki – example of an ""idea file""",technology,295,94,tamnd,https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f,20260409
+47697980,"Account Verification for Windows Hardware Program Begins October 16, 2025",worldnews,5,0,TiredOfLife,https://techcommunity.microsoft.com/blog/hardware-dev-center/action-required-account-verification-for-windows-hardware-program-begins-october/4455452,20260409
+47672642,Iran threatens OpenAI's Stargate data center in Abu Dhabi,technology,65,1,marksully,https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat,20260409
+47674056,Show HN: Bx – macOS native sandbox for AI and coding tools,technology,7,0,holtwick,https://github.com/holtwick/bx-mac,20260409
+47697711,The World Needs More Software Engineers – Box CEO,technology,7,4,alwinaugustin,https://www.oreilly.com/radar/the-world-needs-more-software-engineers/,20260409
+47622616,The Technocracy Movement of the 1930s,technology,171,138,lazydogbrownfox,https://donotresearch.substack.com/p/welcome-to-the-technocracy,20260409
+47685704,How the Vision Pro Rollout Inflamed Tensions at Apple,sports,16,4,f_allwein,https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/,20260409
+47693990,"Ask HN: Founders/investors, what AI bet you made in 2022 and how it is going?",technology,6,1,kjok,,20260409
+47648404,My Google Workspace account suspension,science,369,221,zenincognito,https://zencapital.substack.com/p/sad-story-of-my-google-workspace,20260409
+47677556,Show HN: A (marginally) useful x86-64 ELF executable in 298 bytes,entertainment,13,0,meribold,https://github.com/meribold/btry,20260409
+47683171,Show HN: Can an AI model fit on a single pixel?,technology,8,10,deevelton,https://github.com/dvelton/ai-pixel,20260409
+47633131,"Run Linux containers on Android, no root required",technology,221,87,politelemon,https://github.com/ExTV/Podroid,20260409
+47682879,We need re-learn what AI agent development tools are in 2026,technology,7,0,healsdata,https://blog.n8n.io/we-need-re-learn-what-ai-agent-development-tools-are-in-2026/,20260409
+47656659,Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice,technology,199,59,MoltenMonster,https://github.com/mikf/gallery-dl/discussions/9304,20260409
+47682075,New York Times Got Played by a Telehealth Scam and Called It the Future of AI,technology,35,7,hn_acker,https://www.techdirt.com/2026/04/07/the-new-york-times-got-played-by-a-telehealth-scam-and-called-it-the-future-of-ai/,20260409
+47694520,Gmail / Google Workspace Incendent Underway,technology,8,2,vapemaster,https://www.google.com/appsstatus/dashboard/incidents/224ozRqzW4sFBDK8hLnT,20260409
+47676521,Claude Code login fails with OAuth timeout on Windows,technology,222,306,sh1mmer,https://github.com/anthropics/claude-code/issues/44257,20260409
+47629485,A case study in testing with 100+ Claude agents in parallel,science,67,54,thejash,https://imbue.com/product/mngr_part_2/,20260409
+47658617,Show HN: I just built a MCP Server that connects Claude to all your wearables,entertainment,17,12,anton_salcher,https://pacetraining.co/,20260409
+47667798,"Bernie Sanders: ""AI Is a Threat to Everything the American People Hold Dear""",technology,77,67,fortran77,https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459,20260409
+47691409,Reproducibility and robustness of economics and political science research,science,5,0,lamename,https://www.nature.com/articles/s41586-026-10251-x,20260409
+47682341,"Author's preface to the book: ""PGP Source Code and Internals"" (1995)",technology,5,0,ipnon,https://philzimmermann.com/EN/essays/BookPreface.html,20260409
+47694234,Strait of Hormuz appears to remain closed amid conflicting US and Iran briefings,technology,20,4,gridder,https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news,20260409
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,222,148,pseudolus,https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy,20260409
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",entertainment,158,18,kaipereira,https://github.com/KaiPereira/Overglade-Badges,20260409
+47696600,AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It,technology,16,4,firefoxd,https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code,20260409
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,entertainment,554,180,detaro,https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice,20260409
+47656335,Does coding with LLMs mean more microservices?,technology,63,61,jer0me,https://ben.page/microservices,20260409
+47679573,Apple Is Reportedly Facing a 'Massive Dilemma' with the MacBook Neo,entertainment,31,22,thm,https://www.macrumors.com/2026/04/07/macbook-neo-massive-dilemma/,20260409
+47645468,Writing Lisp is AI resistant and I'm sad,technology,98,99,djha-skin,https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/,20260409
+47637206,Show HN: Docking – Extensible Linux dock in Python,entertainment,26,19,edumucelli,https://docking.cc,20260409
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",technology,186,103,jrandolf,https://sllm.cloud,20260409
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,62,angst,https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans,20260409
+47691860,Supply chain nightmare: How Rust will be attacked and how to mitigate attacks,technology,10,0,randomint64,https://kerkour.com/rust-supply-chain-nightmare,20260409
+47655058,OpenAI's fall from grace as investors race to Anthropic,technology,216,151,1vuio0pswjnm7,https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic,20260409
+47649117,Someone at BrowserStack is leaking users' email addresses,technology,390,103,m_km,https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/,20260409
+47649811,"Japanese, French and Omani vessels cross Strait of Hormuz",technology,165,243,vrganj,https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz,20260409
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,entertainment,165,7,teamchong,https://github.com/teamchong/turboquant-wasm,20260409
+47700720,A hacker has allegedly breached one of China's supercomputers,technology,5,0,tamnd,https://www.cnn.com/2026/04/08/china/china-supercomputer-hackers-hnk-intl,20260409
+47681453,"Sports bets on prediction markets ruled to be ""swaps,"" exempt from state laws",sports,19,6,nradov,https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/,20260409
+47620933,Memo: A language that remembers only the last 12 lines of code,technology,59,36,notem,https://danieltemkin.com/Esolangs/Memo/,20260409
+47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,technology,188,164,lschueller,https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones,20260409
+47632503,"Iran strikes leave Amazon availability zones ""hard down"" in Bahrain and Dubai",technology,248,123,upofadown,https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability,20260409
